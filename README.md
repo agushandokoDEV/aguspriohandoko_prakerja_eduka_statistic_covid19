@@ -1,6 +1,6 @@
 # aguspriohandoko_prakerja_eduka_statistic_covid19
 
-A new Flutter project.
+pelatihan prakerja eduka studi kasus : Aplikasi Statistik covid19 menggunakan flutter
 
 ## Getting Started
 
